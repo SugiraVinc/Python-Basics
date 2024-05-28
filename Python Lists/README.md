@@ -8,7 +8,7 @@ A list is an ordered sequence of items. The list index starts from zero.
 - Similarly, the index values are always an integer. If we give any other type, then it will throw Type Error.
 
 - Negative Indexing
--  The elements in the list can be accessed from right to left by using negative indexing. The negative value starts from -1 to -length of the list. It indicates that the list is indexed from the reverse/backward.
+* The elements in the list can be accessed from right to left by using negative indexing. The negative value starts from -1 to -length of the list. It indicates that the list is indexed from the reverse/backward.
 
 
 

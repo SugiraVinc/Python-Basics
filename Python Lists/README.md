@@ -10,10 +10,6 @@ A list is an ordered sequence of items. The list index starts from zero.
 - Negative Indexing
 * The elements in the list can be accessed from right to left by using negative indexing. The negative value starts from -1 to -length of the list. It indicates that the list is indexed from the reverse/backward.
 
-
-
-
-
 1. [decl.py] How to create a list
 2. How to add elements on the list
 3. How to modify a list
@@ -38,3 +34,12 @@ A list is an ordered sequence of items. The list index starts from zero.
 # List indexing
 
 ![alt text](image.png)
+
+# List slicing
+--------------
+
+- Syntax: listname[start_index : end_index : step]
+
+- The start_index denotes the index position from where the slicing should begin and the end_index parameter denotes the index positions till which the slicing should be done.
+
+- The step allows you to take each nth-element within a start_index:end_index range.
